@@ -18,4 +18,6 @@ body{
     font-family: 'Epilogue', sans-serif;
     background-color: var(--almostWhite);
     height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
