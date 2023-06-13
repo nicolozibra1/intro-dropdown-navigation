@@ -68,6 +68,13 @@ import FooterComponent from '../components/FooterComponent.vue';
             padding: 15px 20px;
             border-radius: 12px;
             text-decoration: none;
+            border: 1px solid transparent;
+            transition: color 0.3s, background-color 0.3s;
+            &:hover{
+                color: black;
+                background-color: hsl(0, 0%, 98%);
+                border: 1px solid black;
+            }
         }
     }
     @media screen and (min-width: 1200px){

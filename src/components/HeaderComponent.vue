@@ -162,8 +162,18 @@ import MainComponent from './MainComponent.vue';
         li{
             color: hsl(0, 0%, 41%);
             font-size: 18px;
+            transition: color 0.3s;
+            &:hover{
+                color: black;
+                cursor: pointer;
+            }
             span, img{
                 cursor:pointer;
+            }
+        }
+        .sign a{
+            &:hover{
+                color: black;
             }
         }
         .hamburger{
