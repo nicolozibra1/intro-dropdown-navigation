@@ -15,7 +15,7 @@
 <template>
   <HeaderComponent />
   <MainComponent />
-  <FooterComponent />
+  <FooterComponent v-if="innerWidth < 1200"/>
 </template>
 
 <style scoped>

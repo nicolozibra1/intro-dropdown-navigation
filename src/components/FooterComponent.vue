@@ -32,5 +32,9 @@
 </script>
 
 <style lang="scss" scoped>
-
+    @media (min-width: 680px) and (max-width: 1200px) {
+        footer{
+            max-width: 700px;;
+        }
+    }
 </style>
