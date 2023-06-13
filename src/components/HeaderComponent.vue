@@ -146,36 +146,6 @@ import MainComponent from './MainComponent.vue';
 
 <style lang="scss" scoped>
     header{
-        h1{
-            font-weight: 700;
-            font-size: 2rem;
-        }
-        i{
-            font-weight: 700;
-            font-size: 1.5rem;
-            margin-top: -10px;
-            cursor: pointer;
-        }
-        ul{
-            list-style: none;
-        }
-        li{
-            color: hsl(0, 0%, 41%);
-            font-size: 18px;
-            transition: color 0.3s;
-            &:hover{
-                color: black;
-                cursor: pointer;
-            }
-            span, img{
-                cursor:pointer;
-            }
-        }
-        .sign a{
-            &:hover{
-                color: black;
-            }
-        }
         .hamburger{
             height: 100vh;
             width: 65%;

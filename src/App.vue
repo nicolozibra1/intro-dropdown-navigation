@@ -8,14 +8,14 @@
         HeaderComponent,
         MainComponent,
         FooterComponent
-      }
+      },
     }
 </script>
 
 <template>
-  <HeaderComponent />
+  <HeaderComponent/>
   <MainComponent />
-  <FooterComponent v-if="innerWidth < 1200"/>
+  <FooterComponent  v-if="innerWidth < 1200" />
 </template>
 
 <style scoped>
