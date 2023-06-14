@@ -1,4 +1,5 @@
-# Frontend Mentor - Intro section with dropdown navigation solution
+# Frontend Mentor Challange
+- INTRO SECTION WITH DROPDOWN NAVIGATION SOLUTION
 
 ## Table of contents
 
@@ -21,11 +22,11 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+- Desktop +1440px 
 ![](./public/img/screenshots/desktop-version.png)
-
+- Mobile 375px 
 ![](./public/img/screenshots/mobile-version.png)
-
+- Mobile - Active Dropdown
 ![](./public/img/screenshots/active-mobile-version.png)
 
 ### Links
