@@ -1,29 +1,51 @@
-# .
+# Frontend Mentor - Intro section with dropdown navigation solution
 
-This template should help get you started developing with Vue 3 in Vite.
+## Table of contents
 
-## Recommended IDE Setup
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Overview
 
-## Customize configuration
+### The challenge
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Users should be able to:
 
-## Project Setup
+- View the relevant dropdown menus on desktop and mobile when interacting with the navigation links
+- View the optimal layout for the content depending on their device's screen size
+- See hover states for all interactive elements on the page
 
-```sh
-npm install
-```
+### Screenshot
 
-### Compile and Hot-Reload for Development
+![](./public/img/screenshots/desktop-version.png)
 
-```sh
-npm run dev
-```
+![](./public/img/screenshots/mobile-version.png)
 
-### Compile and Minify for Production
+![](./public/img/screenshots/active-mobile-version.png)
 
-```sh
-npm run build
-```
+### Links
+
+- Solution URL: [GitHub Repository](https://github.com/nicolozibra1/intro-dropdown-navigation)
+- Live Site URL: [Coming Soon](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- HTML5
+- CSS3
+- Sass
+- Bootstrap (Mobile-first workflow)
+- [Vue.js](https://vuejs.org/) - JS Framework
+- [Vite](https://vitejs.dev/) - Frontend Tooling
+## Author
+
+- Website - [Coming Soon](#)
+- Frontend Mentor - [@nicolozibra1](https://www.frontendmentor.io/profile/nicolozibra1)
+
+
