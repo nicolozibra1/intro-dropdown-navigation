@@ -22,17 +22,17 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-- Desktop +1440px 
+Desktop +1440px 
 ![](./public/img/screenshots/desktop-version.png)
-- Mobile 375px 
+Mobile 375px 
 ![](./public/img/screenshots/mobile-version.png)
-- Mobile - Active Dropdown
+Mobile - Active Dropdown
 ![](./public/img/screenshots/active-mobile-version.png)
 
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/nicolozibra1/intro-dropdown-navigation)
-- Live Site URL: [Coming Soon](https://your-live-site-url.com)
+- Live Site URL: [SNAP - Intro Dropdown Navigation](https://intro-dropdown-navigation-nine.vercel.app/)
 
 ## My process
 

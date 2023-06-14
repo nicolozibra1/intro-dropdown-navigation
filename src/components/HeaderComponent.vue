@@ -149,7 +149,7 @@ import MainComponent from './MainComponent.vue';
         .hamburger{
             height: 100vh;
             width: 65%;
-            background-color: white;
+            background-color: hsl(0, 0%, 98%);
             position: absolute;
             top:0;
             right: 0;
